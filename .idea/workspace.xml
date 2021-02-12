@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eb1f12f-e742-4273-8b39-e22209537e81" name="Default Changelist" comment="" />
+    <list default="true" id="8eb1f12f-e742-4273-8b39-e22209537e81" name="Default Changelist" comment="still working on second part incorporating with html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +49,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613086722233</updated>
-      <workItem from="1613086723595" duration="3763000" />
+      <workItem from="1613086723595" duration="4065000" />
     </task>
+    <task id="LOCAL-00001" summary="still working on second part incorporating with html">
+      <created>1613090768103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613090768103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="still working on second part incorporating with html" />
+    <option name="LAST_COMMIT_MESSAGE" value="still working on second part incorporating with html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1180" y="114" key="FileChooserDialogImpl" timestamp="1613090029029">
@@ -81,5 +93,13 @@
       <screen x="-1920" y="-147" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-147.1920.1040@-1920.-147.1920.1040" timestamp="1613089929840" />
+    <state x="-1368" y="106" key="Vcs.Push.Dialog.v2" timestamp="1613090793198">
+      <screen x="-1920" y="-147" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="106" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-147.1920.1040@-1920.-147.1920.1040" timestamp="1613090793198" />
+    <state x="-1143" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613090570354">
+      <screen x="-1920" y="-147" width="1920" height="1040" />
+    </state>
+    <state x="-1143" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.-147.1920.1040@-1920.-147.1920.1040" timestamp="1613090570354" />
   </component>
 </project>
